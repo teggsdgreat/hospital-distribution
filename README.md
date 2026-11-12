@@ -55,6 +55,10 @@ All distances are straight-line ("as the crow flies"); road distance is longer. 
 
 All settings are in the `CFG` block at the top of the `<script>` in `index.html`: title, data file name, filter columns, default colour field, the hub/spoke column names, the hub code suffix (`-1`) and the long-link distance.
 
+## Background maps
+
+The default background is OpenStreetMap, with Esri Streets, Esri Light grey and Esri Satellite also on offer. OpenStreetMap's servers refuse requests from a page opened straight from your computer (`file://`), so the page then starts on Esri Streets instead.
+
 ## Privacy
 
 A free GitHub Pages site is public: anyone with the link can see the hospital list. If the list must stay private, use a private host instead (for example Netlify with password protection, or your organisation's server).

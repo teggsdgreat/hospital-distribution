@@ -281,9 +281,9 @@ fieldset:disabled{opacity:.5}
       <label class="fld"><span>Colour markers by</span><select id="colorBy"></select></label>
       <label class="fld"><span>Background map</span>
         <select id="basemap">
-          <option value="voyager" selected>Streets (CARTO)</option>
-          <option value="light">Light (CARTO)</option>
-          <option value="osm">Streets (OpenStreetMap)</option>
+          <option value="osm" selected>Streets (OpenStreetMap)</option>
+          <option value="esriStreet">Streets (Esri)</option>
+          <option value="light">Light grey (Esri)</option>
           <option value="sat">Satellite (Esri)</option>
           <option value="none">None</option>
         </select></label>
@@ -525,11 +525,11 @@ if (!window.L) {
 const map = L.map('map', { zoomControl: true, worldCopyJump: false }).setView([9.08, 8.68], 6);
 L.control.scale({ imperial: false, position: 'bottomleft' }).addTo(map);
 const BASEMAPS = {
-  voyager: { url: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', opt: { maxZoom: 20, subdomains: 'abcd', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>' } },
   // OpenStreetMap's volunteer servers refuse tiles when the browser sends no Referer
   // (e.g. the page opened straight from a computer as file://). Use only on a hosted site.
   osm: { url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png', opt: { maxZoom: 19, referrerPolicy: 'strict-origin-when-cross-origin', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors' } },
-  light: { url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', opt: { maxZoom: 20, subdomains: 'abcd', attribution: '&copy; OpenStreetMap contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>' } },
+  esriStreet: { url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', opt: { maxZoom: 19, attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors' } },
+  light: { url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', opt: { maxZoom: 16, attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors' } },
   sat: { url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', opt: { maxZoom: 19, attribution: 'Imagery &copy; Esri, Maxar, Earthstar Geographics' } }
 };
 let tileOk = 0, tileErr = 0, tileTimer = null;
@@ -1585,7 +1585,8 @@ window.addEventListener('resize', debounce(() => map.invalidateSize(), 200));
 
 /* ---------- Start ---------- */
 document.title = CFG.title; $('#appTitle').textContent = CFG.title;
-setBasemap('voyager');
+$('#basemap').value = location.protocol === 'file:' ? 'esriStreet' : 'osm';
+setBasemap($('#basemap').value);
 syncClUI();
 renderLegend();
 if (isMobile()) document.body.classList.remove('side-open');
