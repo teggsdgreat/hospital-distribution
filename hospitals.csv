@@ -1,0 +1,172 @@
+﻿Region,State,LGA,Hospital Name,Address/locality,Denomination,Latitude,Longitude,Location precision,Hub,Spoke
+Anambra Central,Anambra,Idemili North,"Iyienu Mission Hospital, Ogidi","Km 8, Old Onitsha-Enugu Road, Ogidi Old Road, Ogidi",Anglican,6.154479,6.849768,Exact,AN1,AN1-1
+Anambra Central,Anambra,Idemili North,Bethel Mission Hospital Iyienu Annex,"90 Oraifite Street, Awada, Obosi",Anglican,6.130585,6.801807,Exact,AN1,AN1-2
+Anambra Central,Anambra,Idemili North,Immaculate Heart of Mary Hospital Nkpor,"18 immaculate avenue, Old Asaba-Onitsha Road, Nkpor, Anambra State",Roman Catholic Church,6.148523,6.839135,Exact,AN1,AN1-3
+Anambra Central,Anambra,Idemili North,St Martin's Catholic Hospital and Child Welfare,"Ugwuagba Village Obosi,Opposite Security Office",Roman Catholic Church,6.111929,6.80155,Exact,AN1,AN1-4
+Anambra Central,Anambra,Idemili North,Daughters of Mary Hospital,Nkpor,Roman Catholic Church,6.14485,6.820937,Approximate / probable,AN1,AN1-5
+Anambra Central,Anambra,Idemili South,Our Lady of Fatima Hospital,Ejighinandu Village Along Akwa Etiti Market.,Roman Catholic Church,6.03467,6.965749,Exact,AN1,AN1-6
+Anambra Central,Anambra,Anaocha,Jeo Nwilo Heart Center,Adazi,Roman Catholic Church,6.091286,6.997245,Approximate / probable,AN1,AN1-7
+Anambra Central,Anambra,Anaocha,"St. Joseph's Hospital, Adazi-Nnukwu","Nnewi Road, Obeagu, Adazi-Nnukwu",Roman Catholic Church,6.09051,6.991159,Approximate / probable,AN1,AN1-8
+Anambra Central,Anambra,Awka South,St Faith Hospital,"Along St Joseph The Worker Road, Unizik Temporary Site Awka",Anglican,6.223526,7.064425,Exact,AN1,AN1-9
+Anambra Central,Anambra,Awka South,Regina Ceali Hospital Awka,"36 Regina Ceali Road, Opp St. Patrick's Cathedral, Near King David Hotel Awka",Roman Catholic Church,6.218323,7.077632,Exact,AN2,AN2-1
+Anambra Central,Anambra,Awka North,Ave Maria Hospital and Maternity,Urum,Roman Catholic Church,6.28667,7.031391,Exact,AN2,AN2-2
+Anambra Central,Anambra,Awka North,Mission Hospital,Awba Ofemmili,Anglican,6.418769,7.052345,Approximate / probable,AN2,AN2-3
+Anambra Central,Anambra,Njikoka,St Anna's Maternity Hospital,Amabor Village Abba,Roman Catholic Church,6.215741,6.96019,Exact,AN2,AN2-4
+Anambra Central,Anambra,Dunukofia,St Joseph Hospital Amilo,Ukpo,Roman Catholic Church,6.213014,6.946655,Approximate / probable,AN2,AN2-5
+Anambra Central,Anambra,Dunukofia,Immaculate Heart Hospital And Maternity Umudioka,Before Abbor primary school Umudioka,Roman Catholic Church,6.17214,6.92135,Exact,AN2,AN2-6
+Anambra North,Anambra,Onitsha North,St Marks Health Post,"Omagba, Onitsha",Anglican,6.150692,6.81488,Exact,AN2,AN2-7
+Anambra North,Anambra,Onitsha North,St Andrews Anglican Church Health Centre,Onitsha,Anglican,6.153231,6.80081,Approximate / probable,AN2,AN2-8
+Anambra North,Anambra,Onitsha North,St Christophers Health Post,Onitsha,Anglican,6.150766,6.787736,Exact,AN2,AN2-9
+Anambra North,Anambra,Onitsha North,St Monica Health Centre,Onitsha,Anglican,6.134617,6.786522,Exact,AN2,AN2-10
+Anambra North,Anambra,Onitsha North,Christ Church Health Post,Inside Christ Church Anglican Church Main Market Onitsha,Anglican,6.154613,6.775767,Exact,AN2,AN2-11
+Anambra North,Anambra,Onitsha North,St Charles Borromeo Hospital,"No.1 Limca Road, Old Nkpor Road",Roman Catholic Church,6.143103,6.818585,Exact,AN3,AN3-1
+Anambra North,Anambra,Onitsha North,Holy Rosary Specialist Hospital and Maternity (Waterside),No.  Mission Road Onitsha Opposite Holy Trinity Basilica Behind Oluchukwu Microfinance Bank.,Roman Catholic Church,6.160005,6.775391,Exact,AN3,AN3-2
+Anambra North,Anambra,Onitsha South,Mary Elms Mission Hospital,"Modebe Avenue, Odoakpu, Onitsha",Anglican,6.14682,6.783592,Exact,AN3,AN3-3
+Anambra North,Anambra,Onitsha South,Christ the King Hospital,"Odoakpu, Onitsha",Roman Catholic Church,6.143673,6.790231,Exact,AN3,AN3-4
+Anambra North,Anambra,Onitsha South,St Mary the Virgin East Niger Health Center,Onitsha,Roman Catholic Church,6.1399,6.781516,Approximate / probable,AN3,AN3-5
+Anambra North,Anambra,Onitsha South,St. John Anglican Primary Healthcare Centre,St John Anglican Church Nnobi Street Fegge Onitsha,Anglican,6.135689,6.770299,Exact,AN3,AN3-6
+Anambra North,Anambra,Onitsha South,Methodist Primary Healthcare Centre,18/23 Oraukwu/Ukpor Street Fegge,Methodist,6.135622,6.78063,Exact,AN3,AN3-7
+Anambra North,Anambra,Anambra East,Niger West Diocesan Hospital (Rephael Diocesan Hospital),Behind St Gabriel's Cathedral Umueri,Anglican,6.336221,6.846093,Exact,AN3,AN3-8
+Anambra North,Anambra,Anambra East,Diocesan Hospital,Aguleri-Otu,Anglican,6.352839,6.854595,Approximate / probable,AN3,AN3-9
+Anambra North,Anambra,Anambra East,Daughters of Mary Mother of Mercy Hospital,Aguleri,Roman Catholic Church,6.328426,6.881206,Approximate / probable,AN3,AN3-10
+Anambra North,Anambra,Anambra East,"Immaculate Heart Multi-Specialty Hospital, Aguleri","Opposite Governor Obiano's Lodge, Aguleri Anambra East",Roman Catholic Church,6.342469,6.852989,Exact,AN3,AN3-11
+Anambra North,Anambra,Anambra West,St Bernadette Maternity Home,Mmiata Anam,Roman Catholic Church,6.417602,6.786152,Approximate / probable,AN3,AN3-12
+Anambra North,Anambra,Anambra West,IHM Rex Universorium Hospital and Maternity,Mmiata Anam,Roman Catholic Church,6.417602,6.786152,Exact,AN3,AN3-13
+Anambra North,Anambra,Anambra West,Mission Hospital,Umueze Anam,Anglican,6.415918,6.748798,Approximate / probable,AN3,AN3-14
+Anambra North,Anambra,Anambra West,Star of the Sea Health Center,Umueze Anam,Roman Catholic Church,6.415918,6.748798,Approximate / probable,AN3,AN3-15
+Anambra North,Anambra,Ogbaru,St Lukes Health Post,Okpoko,Anglican,6.10276,6.792669,Approximate / probable,AN3,AN3-16
+Anambra North,Anambra,Ogbaru,St Luke'S Diocesan Hospital Okpoko,Inside St Luke's Anglican Church Okpoko,Anglican,6.10276,6.792669,Exact,AN3,AN3-17
+Anambra North,Anambra,Ogbaru,Primary Health Centre,Ogwuaniocha,Roman Catholic Church,5.871502,6.693404,Approximate / probable,AN3,AN3-18
+Anambra North,Anambra,Ogbaru,Presentation Maternity Home,Okpoko,Roman Catholic Church,6.118404,6.791492,Approximate / probable,AN3,AN3-19
+Anambra North,Anambra,Ayamelum,Diocesan Hospital,Omor,Anglican,6.511621,6.964028,Approximate / probable,AN3,AN3-20
+Anambra North,Anambra,Ayamelum,Diocesan Hospital,Umumbo,Anglican,6.527089,7.009222,Approximate / probable,AN3,AN3-21
+Anambra North,Anambra,Ayamelum,Maranatha Caring Mission Hospital,Umueje & Igbariam,Roman Catholic Church,6.69838,6.959233,Exact,AN3,AN3-22
+Anambra North,Anambra,Ayamelum,St Joseph Hospital ifite Ogwari,From Amanyiocha Junction to St Joseph Catholic Hospital,Roman Catholic Church,6.604912,6.94462,Exact,AN3,AN3-23
+Anambra North,Anambra,Oyi,St. Rapheal Missionary Hospital Nkwelle Ezunaka,Nkwelle Ezunaka,Others,6.216109,6.853936,Exact,AN3,AN3-24
+Anambra South,Anambra,Nnewi South,Amichi Diocesan Hospital,Umunwaehi village Amichi,Anglican,5.99522,6.965408,Exact,AN3,AN3-25
+Anambra South,Anambra,Nnewi South,Nnewi Diocesan Health Center,"Ebe, Ukpor",Anglican,5.950768,6.941911,Approximate / probable,AN3,AN3-26
+Anambra South,Anambra,Nnewi South,Visitation Hospital,Amakom osumenyi,Roman Catholic Church,5.956259,6.973584,Exact,AN3,AN3-27
+Anambra South,Anambra,Nnewi South,Mother of Mercy Hospital,After st David's Catholic Church before mother of mercy secondary school,Roman Catholic Church,5.932138,6.971647,Exact,AN3,AN3-28
+Anambra South,Anambra,Nnewi South,Unubi Medical Foundation Complex,Unubi,Roman Catholic Church,5.959926,7.046974,Exact,AN3,AN3-29
+Anambra South,Anambra,Nnewi North,Diosesian Hospital And Maternity Nnewi,"AKWAUDO AHIA EKE AMA OBI , OTOLO NNEWI.",Anglican,6.004525,6.931208,Exact,AN3,AN3-30
+Anambra South,Anambra,Nnewi North,Nnewi Diocesan Hospital,"Umudim, Nnewi",Anglican,5.997466,6.921639,Approximate / probable,AN4,AN4-1
+Anambra South,Anambra,Nnewi North,Nnewi Diocesan Health Center,"Akaboukwu, Nnewi",Anglican,6.024999,6.932072,Approximate / probable,AN4,AN4-2
+Anambra South,Anambra,Nnewi North,Immaculate Heart Hospital and Maternity,Nnewi,Roman Catholic Church,6.018923,6.915632,Approximate / probable,AN4,AN4-3
+Anambra South,Anambra,Nnewi North,Divine Mercy Hospital,"Okofia, Nnewi",Roman Catholic Church,5.977787,6.941489,Approximate / probable,AN4,AN4-4
+Anambra South,Anambra,Nnewi North,Fr Damian Hospital and Leprosorium,Nnewi,Roman Catholic Church,6.018923,6.915632,Approximate / probable,AN4,AN4-5
+Anambra South,Anambra,Nnewi North,St Felix Catholic Specialist Hospital,Nnewi,Roman Catholic Church,6.000544,6.914451,Exact,AN4,AN4-6
+Anambra South,Anambra,Nnewi North,Redeemed Christian Church Of God Hospital And Maternity,NO 46 IGWE ORIZU ROAD OTOLO NNEWI,Christian Pentecostal Fellowship,6.012753,6.94139,Approximate / probable,AN4,AN4-7
+Anambra South,Anambra,Orumba South,Immaculate Heart Hospital,Nsogwu umunze in Orumba South Local Government Area,Roman Catholic Church,5.957914,7.241003,Exact,AN4,AN4-8
+Anambra South,Anambra,Orumba South,Trinitas International Hospital,Umuchukwu,Roman Catholic Church,6.01011,7.309917,Exact,AN4,AN4-9
+Anambra South,Anambra,Orumba South,Aguata Diocesan Hospital And Maternity Umunze,Ndiabor Village before Immaculate Hospital and Maternity Umunze,Anglican,5.960732,7.240604,Exact,AN4,AN4-10
+Anambra South,Anambra,Orumba South,St Jude Hospital and Maternity,Umuchukwu,Roman Catholic Church,5.99938,7.310743,Approximate / probable,AN4,AN4-11
+Anambra South,Anambra,Aguata,Aguata Anglican Diocesan Hospital And Maternity Igboukwu,Ngo Village Igboukwu,Anglican,6.019738,7.019184,Exact,AN4,AN4-12
+Anambra South,Anambra,Aguata,St Raphael Hospital,Close to Akpo Junction,Roman Catholic Church,5.96219,7.102957,Exact,AN4,AN4-13
+Anambra South,Anambra,Aguata,Catholic Visitation Hospital And Maternity Umuchu,"Inside Saint Mathew Catholic Church, Osete Umuchu",Roman Catholic Church,5.935561,7.123497,Exact,AN4,AN4-14
+Anambra South,Anambra,Aguata,St Raphael Catholic Hospital and Maternity,Opposite Our Lady of Fatima Nkwo Igboukwu,Roman Catholic Church,6.01626,7.022759,Exact,AN4,AN4-15
+Anambra South,Anambra,Aguata,St Patrick's Mission Hospital,"Ula Village, Ekwulobia",Roman Catholic Church,5.935595,7.080819,Exact,AN4,AN4-16
+Anambra South,Anambra,Ihiala,Our Lady Of Lourdes Hospital Ihiala,Opposite St Martin's Catholic Church Ihiala,Roman Catholic Church,5.863846,6.860647,Exact,AN5,AN5-1
+Anambra South,Anambra,Ihiala,St Lukes Hospital,Isseke,Anglican,5.827482,6.91628,Approximate / probable,AN5,AN5-2
+Anambra South,Anambra,Ihiala,Diocesan Hospital,Ihiala,Anglican,5.863555,6.857582,Approximate / probable,AN5,AN5-3
+Anambra South,Anambra,Ihiala,Daughters Of Mary Mother Of Mercy Hospital And Maternity Adazi-Ani,Near Ekeigwe market Ukwakwa Azia,Roman Catholic Church,5.880719,6.885642,Exact,AN5,AN5-4
+Anambra South,Anambra,Ihiala,St Mary Hospital,Orsumoghu,Roman Catholic Church,5.86048,6.92835,Approximate / probable,AN5,AN5-5
+Anambra South,Anambra,Ihiala,St Christina Hospital and Maternity,Azia,Roman Catholic Church,5.877227,6.899808,Approximate / probable,AN5,AN5-6
+Anambra South,Anambra,Ihiala,School of Laboratory,Ihiala,Roman Catholic Church,5.863846,6.860647,Approximate / probable,AN5,AN5-7
+Anambra South,Anambra,Orumba North,Anglican Hospital,Omogho,Anglican,6.089402,7.136221,Approximate / probable,AN5,AN5-8
+Anambra South,Anambra,Orumba North,St. Fatima Catholic Hospital,Ajalli / Orumba,Roman Catholic Church,6.039519,7.214505,Approximate / probable,AN5,AN5-9
+Anambra South,Anambra,Ekwusigo,Recdot Hospital and Maternity,Ozubulu,Roman Catholic Church,5.967914,6.881591,Approximate / probable,AN5,AN5-10
+Anambra South,Anambra,Ekwusigo,Joint Hospital,Ozubulu,Roman Catholic Church,5.964026,6.87284,Exact,AN5,AN5-11
+Abia South,ABIA,Osisioma Ngwa,"Living Word Mission Hospital, Aba","Aba-Owerri road, Abayi, Aba",Christian Pentecostal Fellowship,5.145969,7.331129,Approximate / probable,AB1,AB1-1
+Abia South,ABIA,Aba North,"Seventh-day Adventist Hospital and Motherless Babies' Home, Aba","No 1 New Umuahia, Ogbor hill, Aba",Others,5.123613,7.385745,Exact,AB1,AB1-2
+Abia South,ABIA,Abia South,"St. Joseph Catholic Hospital, Ohabiam","343 Portharcourt road, Ohabiam Aba",Roman Catholic Church,5.0712,7.3323,Approximate / probable,AB1,AB1-3
+Abia North,ABIA,Bende,"Amaudo Integrated Community Mental Health Foundation, Itumbauzo",Ntalakwu Itumbauzo,Methodist,5.448371,7.68146,Approximate / probable,AB1,AB1-4
+Abia North,ABIA,Bende,"Royal Cross Methodist Hospital, Ugwueke","Ndielu ugwueke ozara, Ugwueke, Bende",Methodist,5.815897,7.623819,Exact,AB1,AB1-5
+Abia Central,ABIA,Isiala Ngwa South,"Mercy Maternity Home, Mbutu Ngwa",Mbutu,Roman Catholic Church,5.310003,7.354743,Approximate / probable,AB1,AB1-6
+Abia Central,ABIA,Isiala Ngwa South,"St. Simon's Hospital/Maternity, Umuacha, Isiala Ngwa south",Umuacha,Roman Catholic Church,5.289481,7.405823,Approximate / probable,AB1,AB1-7
+Abia South,ABIA,Obingwa,"Nigerian Christian Hospital, Nlagu","Nagu Village, Km 18 Aba-Ikot Ekpene, Road, Aba",Others,5.140262,7.525381,Exact,AB1,AB1-8
+Abia North,ABIA,Ohafia,"King of Kings Specialist Hospital, Asaga",Professor Ezera Kalu Road Asaga Ohafia,Christian Pentecostal Fellowship,5.617736,7.84942,Exact,AB1,AB1-9
+Abia North,ABIA,Ohafia,"Uma Ukpai Eye Specialists Hospital, Asaga",Asaga,Christian Pentecostal Fellowship,5.617736,7.84942,Approximate / probable,AB2,AB2-1
+Abia South,ABIA,Osisioma Ngwa,"Freedom Word Mission Hospital and Diagnostic Centre, Aba","Ezeogu Avenue,Abayi Aba,Osisioma",Christian Pentecostal Fellowship,5.145969,7.331129,Exact,AB2,AB2-2
+Abia South,ABIA,Osisioma Ngwa,"St. Paul's Hospital, Umuka village, Amasator, Osisoma Ngwa, Aba","Umuka village, Amasator, Osisoma Ngwa, Aba",Roman Catholic Church,5.137658,7.34991,Exact,AB2,AB2-3
+Abia South,ABIA,Aba South,"OPM Free Specialist Hospital, Ohanku","Plot 3 Akpuro road, Omuahunwo Alu PH raod, Aba",Christian Pentecostal Fellowship,4.9532,7.4094,Approximate / probable,AB2,AB2-4
+Abia South,ABIA,Aba South,"Blessed Tansi Hospital, Aba","110 Mcc Rd, Abayi, Aba, Abia, Nigeria",Roman Catholic Church,5.126906,7.336647,Approximate / probable,AB2,AB2-5
+Abia North,ABIA,Arochukwu,Mercy Hospital Ihechiowa,Umuye Road Ihechiowa Arochukwu,Roman Catholic Church,5.481334,7.886034,Exact,AB2,AB2-6
+Abia North,ABIA,Bende,"St. Nicholas Health Center , Itumbuzo","Ndi-Iwo, Itumbuzo",Roman Catholic Church,5.448371,7.68146,Exact,AB2,AB2-7
+Abia North,ABIA,Ohafia,"Catholic Health Center, Abiriba",Abriba,Roman Catholic Church,5.704976,7.73538,Approximate / probable,AB2,AB2-8
+Abia Central,ABIA,Ikwuano,"St. Michael's Hospital , Ariam.",Ariam Ikwuano,Roman Catholic Church,5.338691,7.619984,Approximate / probable,AB2,AB2-9
+Abia North,ABIA,Bende,Chijioke Osogho memorial Hospital Item,"Omarauzo Apuanu Item, Besides All Saints Methodist Church, Bende ",Methodist,5.785532,7.714845,Exact,AB2,AB2-10
+Abia South,ABIA,Obingwa,"Bishop Afonya hospital, Obingwa","Agburike Isiugwu, Besides Amaanor Community Primary School",Anglican,5.131444,7.396674,Exact,AB2,AB2-11
+Abia Central,ABIA,Isiala Ngwa South,Teresa Orsini Hospital Umumkpenyi Nvosi,Umunkpeyi Nvosi Sacred Hearth Catholic Church,Roman Catholic Church,5.334848,7.48014,Exact,AB2,AB2-12
+Abia Central,ABIA,Umuahia North,"DMMM Specialist Hospital Ahiaeke, Umuahia","Ahiaeke, opposite DMMM generalate",Roman Catholic Church,5.511868,7.529989,Approximate / probable,AB3,AB3-1
+Abia North,ABIA,Umunneochi,St Anthony's Caholic Hospital Isuochi,"Nkwoagu Amuda Isuochi Ngodo Road, Umunneochi LGA",Roman Catholic Church,5.980568,7.397754,Exact,AB3,AB3-2
+Abia North,ABIA,Bende,"Nkech Conwil Methodist Hospital Lohum, Imenyi",Lohum Imenyi,Methodist,5.653829,7.541865,Exact,AB3,AB3-3
+Abia North,ABIA,Isuikwuato,"Marist cottage Hospital, Hopeville Uturu","Hopeville Avenue Obiagu, Uturu, Isuikwuato",Roman Catholic Church,5.829348,7.421299,Exact,AB3,AB3-4
+Abia South,ABIA,Aba South ,Our Lady of the Sick Hospital,"105 Agulanna by Ngwa Road Aba,",Roman Catholic Church,5.086708,7.386926,Exact,AB3,AB3-5
+Abia South,ABIA,Ugwunagbo,Presbytherian Comprehensive Health Center,"20 Presby Road, Off Abara Rd Owerri-Aba",Presbyterian,5.082291,7.373885,Exact,AB3,AB3-6
+Abia South,ABIA,Ukwa West,RCCG Hospital,"144 Bathalion Asa, Ukwa West",Christian Pentecostal Fellowship,4.934147,7.275053,Approximate / probable,AB3,AB3-7
+Abia Central,ABIA,Umuahia South,Anglican Hospital & Maternity,By Ahiaukwu Market Square inside the Balm of Gilead Chapel Olokoro,Anglican,5.478629,7.499984,Exact,AB3,AB3-8
+Abia Central,ABIA,Umuahia South,SDA Hospital Ubakala,"Umuogo, Ubakala Umuahia South LGA",Others,5.474887,7.440288,Exact,AB3,AB3-9
+Abia South,ABIA,Osisioma,Canaan Missionary Hospital,"No 1 Asamoka Street, by Ariara Junction, Osisioma",Christian Pentecostal Fellowship,5.103674,7.319236,Exact,AB3,AB3-10
+Abia south,ABIA,Obingwa,"SEMCOM Friends mission Hospital, Mgboko","Ofokobe, Mgboko",Christian Pentecostal Fellowship,5.134042,7.403481,Approximate / probable,AB3,AB3-11
+Abia Central,ABIA,Isiala Ngwa North,"Our Lady of Mercy Health Centre,",Umunkolo Mbawsi Isialangwa North LGA ,Roman Catholic Church,5.384801,7.437944,Exact,AB3,AB3-12
+Enugu East,Enugu,Enugu East,"Annunciation Specialist Hospital, Emene",Emene,Roman Catholic Church,6.468039,7.58977,Exact,EN1,EN1-1
+Enugu East,Enugu,Enugu East,Eze Nwanyi Nke Udo Primary Healthcare/Maternity & Medical Centre,Ugwu-Omu Nike,Roman Catholic Church,6.53188,7.59898,Approximate / probable,EN1,EN1-2
+Enugu East,Enugu,Enugu East,"Justice Dame Ijeoma Onwuamaegbu Hospital and Maternity, Neke-Uno",Neke-Uno,Anglican,6.635196,7.544118,Approximate / probable,EN1,EN1-3
+Enugu East,Enugu,Enugu East,Godfrey Okoye University Teaching Hospital (formerly Ntasi Obi Ndi No N'Afufu Hospital),"Trans-Ekulu, Enugu",Roman Catholic Church,6.476746,7.501242,Exact,EN1,EN1-4
+Enugu East,Enugu,Enugu East,St. Theresa Hospital and Maternity,NO 3 COLLAGE ROAD ABAKPA NIKE ENUGN,Roman Catholic Church,6.482678,7.518576,Exact,EN1,EN1-5
+Enugu East,Enugu,Enugu East,St. Luke the Physician Specialist Hospital,"Trans-Ekulu, Enugu",Roman Catholic Church,6.476668,7.473712,Approximate / probable,EN1,EN1-6
+Enugu East,Enugu,Enugu North,Ave Maria Eye Clinic,"Ogui, Enugu",Roman Catholic Church,6.440058,7.496273,Approximate / probable,EN1,EN1-7
+Enugu East,Enugu,Enugu North,Mother Of Christ Specialist Hospital,"Beside ogbette market,ogui,enugu state",Roman Catholic Church,6.434426,7.489227,Exact,EN1,EN1-8
+Enugu East,Enugu,Enugu North,Nne Nke Okwukwe Oghe,,Roman Catholic Church,6.4431,7.3065,Approximate / probable,EN1,EN1-9
+Enugu East,Enugu,Enugu North,Niger Foundation Hospital,,Roman Catholic Church,6.443242,7.513481,Exact,EN1,EN1-10
+Enugu East,Enugu,Enugu North,Mater Misercordae Hospital  Coal Camp Ogbete,,Roman Catholic Church,6.426133,7.476476,Approximate / probable,EN1,EN1-11
+Enugu East,Enugu,Enugu North,Inye Aka Ndi I Kristi Catholic Maternity,"Iva Valley, Enugu",Roman Catholic Church,6.445505,7.475738,Approximate / probable,EN1,EN1-12
+Enugu East,Enugu,Enugu North,"Nne Nke Ebere (Mater Misericordia/Mother of Mercy) Hospital, Ngenevu","Ngenevu, Coal Camp, Enugu",Roman Catholic Church,6.426133,7.476476,Approximate / probable,EN1,EN1-13
+Enugu East,Enugu,Enugu South,The Good Shepherd Hospital - Uwani,145 Ziks Avenue Uwani,Anglican,6.425212,7.486081,Exact,EN1,EN1-14
+Enugu East,Enugu,Nkanu East,St Cecilia Owo,Nkanu East ,Roman Catholic Church,6.585503,7.68704,Approximate / probable,EN1,EN1-15
+Enugu East,Enugu,Ezeagu,St Clara Catholic Community Hospital Umana Ndiagu,Umana Ndiagu,Roman Catholic Church,6.349757,7.257263,Exact,EN1,EN1-16
+Enugu East,Enugu,Ezeagu,"St. Anthony Maternity, Agba Umana",Agba Umana,Roman Catholic Church,6.339263,7.200213,Approximate / probable,EN1,EN1-17
+Enugu East,Enugu,Ezeagu,Mater Misercordae Maternity Obinofia Ndiagu,,Roman Catholic Church,6.349757,7.268096,Approximate / probable,EN1,EN1-18
+Enugu East,Enugu,Udi,"St. Anne Maternity, Ngwo",Ngwo,Roman Catholic Church,6.435389,7.434405,Approximate / probable,EN1,EN1-19
+Enugu East,Enugu,Udi,Ukamaka Cottage Hospital & Maternity,Nze/Akpakwume,Roman Catholic Church,6.429376,7.406196,Approximate / probable,EN1,EN1-20
+Enugu North,Enugu,Igbo Eze North,St. Mary Hospital,Enugu Ezike,Roman Catholic Church,6.975337,7.462031,Exact,EN1,EN1-21
+Enugu North,Enugu,Igbo Eze South,Our Ladys Clinic,Along MCC road down to itchi junction Igbo Eze South,Roman Catholic Church,6.924504,7.393303,Exact,EN1,EN1-22
+Enugu North,Enugu,Nsukka,Bishop Shanahan Hospital,Enugu Rd Nsukka.,Roman Catholic Church,6.850299,7.395152,Exact,EN2,EN2-1
+Enugu North,Enugu,Nsukka,"Faith Foundation Mission Hospital, Nsukka",Close To Ofulonu Junction Ogurugu Road,Anglican,6.851083,7.37965,Exact,EN2,EN2-2
+Enugu North,Enugu,Udenu,Daughters of Divine Love - Ehalumona,Udenu,Roman Catholic Church,6.802551,7.463,Exact,EN2,EN2-3
+Enugu North,Enugu,Uzo-uwani,Our Lady Health of the Sick Hospital -  Adani,Adani,Roman Catholic Church,6.73971,7.01117,Approximate / probable,EN2,EN2-4
+Enugu West,Enugu,Awgu,Mother of Mercy Hospital - Ihe,Ihe,Roman Catholic Church,6.230238,7.456458,Approximate / probable,EN2,EN2-5
+Enugu West,Enugu,Awgu,St Anthony Catholic Church Mgbowo Awgu LGA,Awgu,Roman Catholic Church,6.11555,7.500669,Approximate / probable,EN3,EN3-1
+Enugu West,Enugu,Oji River,Achi Joint Hospital,Oji River,Roman Catholic Church,6.155744,7.358438,Exact,EN3,EN3-2
+Enugu West,Enugu,Nkanu West,"Arun Ike Ndi Oria Maternity & Medical Centre, Akegbe Ugwu.",Akegbe Ugwu,Roman Catholic Church,6.343032,7.480738,Approximate / probable,EN3,EN3-3
+Enugu West,Enugu,Nkanu West,Our Lady of Assumption Hospital,Akpugo,Roman Catholic Church,6.3316,7.5984,Approximate / probable,EN3,EN3-4
+Enugu West,Enugu,Nkanu West,"Our Lady of Lourdes Maternity, Akpugo",Akpugo,Roman Catholic Church,6.3316,7.5984,Approximate / probable,EN3,EN3-5
+Imo East,Imo,Aboh Mbaise,"Holy Rosary Hospital, Nkwogwe",,Roman Catholic Church,5.469443,7.24795,Approximate / probable,EN3,EN3-6
+Imo East,Imo,Aboh Mbaise,"Holy Rosary Hospital, Ogbor Nguru","Ogbor Nguru, Abor Mbaise",Roman Catholic Church,5.504985,7.242422,Exact,EN3,EN3-7
+Imo East,Imo,Ezinihitte Mbaise,Harper Christian Clinic,Owutu Community,Christian Pentecostal Fellowship,5.438825,7.30065,Approximate / probable,EN3,EN3-8
+Imo East,Imo,Ezinihitte Mbaise,Mbaise Diocesan Mission Hospital,Ife Community,Roman Catholic Church,5.438825,7.30065,Exact,EN3,EN3-9
+Imo East,Imo,Mbaitoli,General Hospital Ogwa (Anglican-managed),Alone ndi Ikpa Rd besides St. Peter's Anglican Church Ndi Ikpa Ogwa,Anglican,5.636094,7.088623,Exact,EN3,EN3-10
+Imo East,Imo,Mbaitoli,Gilead Missionary Clinic,Umunjam Mbieri Community,Christian Pentecostal Fellowship,5.542497,7.05559,Exact,EN3,EN3-11
+Imo East,Imo,Mbaitoli,Rehoboth Medical Center,Nwaoriebi Community,Christian Pentecostal Fellowship,5.589455,7.015856,Approximate / probable,EN3,EN3-12
+Imo East,Imo,Ikeduru,St. Christopher Anglican Hospital,Umuhu Atta Community,Anglican,5.608675,7.134479,Exact,EN3,EN3-13
+Imo East,Imo,Owerri Municipal,International Christian Community Hospital,"Ikennegbu, Owerri Municipal",Christian Pentecostal Fellowship,5.49501,7.03547,Exact,EN3,EN3-14
+Imo East,Imo,Owerri North,"Holy Rosary Hospital, Emekuku",Mission Emekuku opposite Father Cloonan memorial Secondary School,Roman Catholic Church,5.469779,7.110417,Exact,IM1,IM1-1
+Imo North,Imo,Ehime-Mbano,General Hospital Ehime Mbano (Anglican-managed),Umualumaku/Umuihim Along Aba Branch Road Before Ehime-Mbano Stadium Ehime-Mbano Imo State,Anglican,5.629393,7.288058,Exact,IM1,IM1-2
+Imo North,Imo,Isiala Mbano,General Hospital Isiala Mbano (Anglican-managed),Isu community,Anglican,5.667884,7.183638,Approximate / probable,IM2,IM2-1
+Imo North,Imo,Obowo,"Our Lady of Mercy hospital, Obowo","Umuologho Community, Obowo",Roman Catholic Church,5.571394,7.366333,Exact,IM2,IM2-2
+Imo North,Imo,Obowo,Holy Cross Hospital,"Amato-Alike Community, Obowo",Roman Catholic Church,5.550066,7.341272,Exact,IM2,IM2-3
+Imo North,Imo,Okigwe,"Bavaria Catholic Specialist Hospital, Okigwe",,Roman Catholic Church,5.835937,7.356171,Approximate / probable,IM2,IM2-4
+Imo West,Imo,Ideato North,Immaculate Heart Hospital,Urualla Communty,Roman Catholic Church,5.855687,7.103768,Exact,IM2,IM2-5
+Imo West,Imo,Ideato South,"Mater Amabilis Hospital, Akokwa",Umuijemba Umukekwu neer Orie Akokwa Market,Roman Catholic Church,5.907683,7.110377,Exact,IM2,IM2-6
+Imo West,Imo,Ideato South,Salvation Christian Hospital,Akokwa Community,Christian Pentecostal Fellowship,5.816911,7.13146,Approximate / probable,IM2,IM2-7
+Imo West,Imo,Ideato South,St. Anthony Hospital,Akokwa Community,Roman Catholic Church,5.91916,7.092098,Exact,IM2,IM2-8
+Imo West,Imo,Isu,St. Vincent de Paul's Hospital,Amurie Omanze Community,Roman Catholic Church,5.668784,7.033744,Exact,IM2,IM2-9
+Imo West,Imo,Oguta,"Senator Francis A. Nzeribe Hospital, Oguta (Catholic-managed state hospital)",Oguta General Hospital,Roman Catholic Church,5.712259,6.803907,Exact,IM2,IM2-10
+Imo West,Imo,Ohaji/Egbema,General Hospital Ohaji/Egbema (Lord's Chosen-managed),"By NDDC Singboard Umuagwo, Egbema.",Christian Pentecostal Fellowship,5.516282,6.75602,Exact,IM2,IM2-11
+Imo West,Imo,Ohaji/Egbema,State Hospital Umuokanne (Anglican Diocese of Ohaji/Egbema-managed),Umuokanne Community,Anglican,5.349936,6.902297,Exact,IM2,IM2-12
+Imo West,Imo,Orlu,"Mater Christi Hospital, Orlu",BSC Rd Umuokwara Orlu,Roman Catholic Church,5.79731,7.04538,Exact,IM2,IM2-13
+Imo West,Imo,Orlu,St. Damian Catholic Hospital,Ohaeke Okporo Community,Roman Catholic Church,5.791925,6.993411,Exact,IM2,IM2-14
+Imo West,Imo,Orlu,"St. Mary Hospital & Dialysis center, Umuowa",Umuowa Community,Roman Catholic Church,5.76195,7.030722,Approximate / probable,IM2,IM2-15
+Imo West,Imo,Oru East,"Michael Uzodimma Memorial Hospital, Omuma",Omuma Community,Roman Catholic Church,5.763173,6.957821,Approximate / probable,IM2,IM2-16
+Imo West,Imo,Nwangele,"Medical Missionaries of Mary Community Health Project, Abajah",Abajah community,Anglican,5.684299,7.13415,Approximate / probable,IM2,IM2-17
+Imo West,Imo,Nwangele,St Mary'S Joint Hospital Amaigbo,UBAHU AMAIGBO NWANGELE LGA,Roman Catholic Church,5.733151,7.122267,Exact,IM3,IM3-1
